@@ -2,17 +2,17 @@
 
 > 参考：[cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)，VC2019，《C++primer》，《侯捷泛化编程与标准库》
 
-# [C++_STL——array（C++11)](https://blog.csdn.net/asdasdde/article/details/118075244)
+## [CPP_STL/C++_STL——array（C++11)](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——array（C%2B%2B11）.md)
 
-# [C++_STL——list（and forward_list)](https://blog.csdn.net/asdasdde/article/details/120266872)
+## [CPP_STL/C++_STL——list（and forward_list)](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——list（and forward_list）.md)
 
-# [C++_STL——deque and vector](https://blog.csdn.net/asdasdde/article/details/118253298)
+## [CPP_STL/C++_STL——deque](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——deque.md)
 
-# [C++_STL——queue（and priority_queue)](https://blog.csdn.net/asdasdde/article/details/120289625)
+## [CPP_STL/C++_STL——map、multimap、set、multiset](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——map、multimap、set、multiset.md)
 
-# [C++_STL——stack](https://blog.csdn.net/asdasdde/article/details/120357356)
+## [CPP_STL/C++_STL——stack](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——stack.md)
 
-# [C++_STL——map、multimap、set、multiset](https://blog.csdn.net/asdasdde/article/details/121015373)
+## [CPP_STL/C++_STL——queue（and priority_queue)](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——queue（and priority_queue）.md)
 
-# [C++_STL——unordered_map、unordered_multimap、unordered_set、unordered_multiset](https://blog.csdn.net/asdasdde/article/details/121018592)
+## [CPP_STL/C++_STL——unordered_map、unordered_multimap、unordered_set、unordered_multiset](https://github.com/dwnb/CPP_STL/blob/master/C%2B%2B_STL——unordered_map、unordered_multimap、unordered_set、unordered_multiset.md)
 
